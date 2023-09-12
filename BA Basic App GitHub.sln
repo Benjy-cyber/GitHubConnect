@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BA Basic App GitHub", "BA Basic App GitHub\BA Basic App GitHub.csproj", "{4927E238-90D9-4A23-9BD4-11E1FD59FA24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAppTest", "BasicAppTest\BasicAppTest.csproj", "{A19E9200-37C7-48A2-847C-82A83099F50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4927E238-90D9-4A23-9BD4-11E1FD59FA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4927E238-90D9-4A23-9BD4-11E1FD59FA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4927E238-90D9-4A23-9BD4-11E1FD59FA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4927E238-90D9-4A23-9BD4-11E1FD59FA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19E9200-37C7-48A2-847C-82A83099F50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19E9200-37C7-48A2-847C-82A83099F50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19E9200-37C7-48A2-847C-82A83099F50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19E9200-37C7-48A2-847C-82A83099F50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42AF2DDD-1FF9-432F-8A0D-DA88C1153646}
+	EndGlobalSection
+EndGlobal
